@@ -1,0 +1,14 @@
+[worldserver]
+
+RequiredContent.enabled = true
+
+#############################
+# Required to pass level 60 #
+# Molten Core               #
+# Temple of Ahn'Qiraj       #
+# Blackwing Lair            #
+# Ruins of Ahn'Qiraj        #
+# Zul'Gurub                 #
+#############################
+RequiredContent.Level.60 = "685, 686, 687, 688, 689"
+
