@@ -4,11 +4,26 @@ RequiredContent.enabled = true
 
 #############################
 # Required to pass level 60 #
-# Molten Core               #
-# Temple of Ahn'Qiraj       #
-# Blackwing Lair            #
-# Ruins of Ahn'Qiraj        #
-# Zul'Gurub                 #
+# Classic Raider            #
+#   - Molten Core           #
+#   - Temple of Ahn'Qiraj   #
+#   - Blackwing Lair        #
+#   - Ruins of Ahn'Qiraj    #
+#   - Zul'Gurub             #
 #############################
-RequiredContent.Level.60 = "685, 686, 687, 688, 689"
+RequiredContent.Level.60 = "1285"
 
+##################################
+# Required to pass level 70      #
+# Outland Raider                 #
+#   - Gruul's Lair               #
+#   - Sunwell Plateau            #
+#   - Magtheridon's Lair         #
+#   - The Black Temple           #
+#   - The Battle for Mount Hyjal #
+#   - Tempest Keep               #
+#   - Serpentshrine Cavern       #
+#   - Karazhan                   #
+#   - Zul'Aman                   #
+##################################
+RequiredContent.Level.70 = "1286"
